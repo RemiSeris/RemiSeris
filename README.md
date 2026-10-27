@@ -10,4 +10,4 @@ On développe aussi nos propres skills et modules pour Claude, et on les publie 
 
 ## Me suivre
 
-- LinkedIn : https://www.linkedin.com/in/r%C3%A9mi-seris-8665a9159/
+- LinkedIn : [linkedin.com/in/rémi-seris-8665a9159](https://www.linkedin.com/in/r%C3%A9mi-seris-8665a9159/)
