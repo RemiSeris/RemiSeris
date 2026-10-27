@@ -1,16 +1,13 @@
-## Hi there 👋
+# Rémi Seris
 
-<!--
-**RemiSeris/RemiSeris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Avec Éric, je fais **Make a Dent** : on aide des professionnels à faire travailler Claude pour eux, au quotidien.
 
-Here are some ideas to get you started:
+On développe aussi nos propres skills et modules pour Claude, et on les publie ici en open source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## À voir
+
+- **[ClaudeMirror](https://github.com/RemiSeris/ClaudeMirror)** : un skill qui apprend ta façon de parler, pour que Claude te réponde dans ton registre et se lise plus vite.
+
+## Me suivre
+
+- LinkedIn : https://www.linkedin.com/in/r%C3%A9mi-seris-8665a9159/
